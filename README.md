@@ -1,5 +1,7 @@
 # Image Detector - Image Processing and Comparison Tool
 
+example of usage - [link](https://youtu.be/au-47lE0Nsg)
+
 ## Description  
 ImageDetector is a Python-based GUI application built with Pygame that allows users to load, process, and compare images. It supports various image processing techniques and stores image hashes in a database for similarity checks. This tool is ideal for experimenting with filters and finding visually similar images.
 
